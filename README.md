@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @captainsolana
-- 👀 I’m interested in projects on Solana
-- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on value unlocks in Solana ecosystem (dapps, NFT monetization etc.,.)
 - 📫 How to reach me @captainsolana on Twitter
 
