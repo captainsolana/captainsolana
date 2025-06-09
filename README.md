@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captainsolana
-- 💞️ I’m looking to collaborate on value unlocks in Solana ecosystem (dapps, NFT monetization etc.,.)
-- 📫 How to reach me @captainsolana on Twitter
+- 💞️ I’m looking to collaborate on value unlocks through AI
+
 
 <!---
 captainsolana/captainsolana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
